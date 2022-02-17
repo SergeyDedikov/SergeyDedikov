@@ -1,4 +1,4 @@
-### Приветствую на моём <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png"/>-пространстве 👋
+### Приветствую 👋 на моём <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png"/>-пространстве!
 
 - <img position="relative" top=10px src="https://img.icons8.com/color/30/000000/abc.png"/> В настоящее время учусь в [Я.Практикуме](https://praktikum.yandex.ru) на курсе "Веб-разработчик".
 - <img width=24px src="https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/64/000000/external-thinking-digital-business-photo3ideastudio-lineal-color-photo3ideastudio.png"/> Мне интересно учиться, получать новые знания.
