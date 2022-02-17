@@ -6,7 +6,7 @@
 - <img width=32px src="https://img.icons8.com/external-konkapp-outline-color-konkapp/64/000000/external-working-man-stay-at-home-konkapp-outline-color-konkapp.png"/> Большое желание проявить себя в реальных проектах.
 - :mailbox: [Моя почта](mailto:ser.dedikoff@ya.ru)
 
-- <img width=24px src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/> [Мой Телеграм](https://t.me/@dev_SeregaDedok)
+- <img width=24px src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/> [Мой Телеграм](https://t.me/dev_SeregaDedok)
 
 
 <!--
