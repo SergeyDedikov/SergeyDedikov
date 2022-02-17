@@ -4,9 +4,7 @@
 - <img width=24px src="https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/64/000000/external-thinking-digital-business-photo3ideastudio-lineal-color-photo3ideastudio.png"/> Мне интересно учиться, получать новые знания.
 - <img width=24px src="https://img.icons8.com/color/48/000000/motarboard.png"/> В данный момент готовлюсь к диплому.
 - <img width=32px src="https://img.icons8.com/external-konkapp-outline-color-konkapp/64/000000/external-working-man-stay-at-home-konkapp-outline-color-konkapp.png"/> Большое желание проявить себя в реальных проектах.
-- :mailbox: [Моя почта](mailto:ser.dedikoff@ya.ru)
-
-- <img width=24px src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/> [Мой Телеграм](https://t.me/dev_SeregaDedok)
+- :mailbox: [Моя почта](mailto:ser.dedikoff@ya.ru)  <img width=24px src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/> [Мой Телеграм](https://t.me/dev_SeregaDedok)
 
 
 <!--
