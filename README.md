@@ -1,9 +1,12 @@
-### Приветствую на моём :octocat:GIT-пространстве 👋
+### Приветствую на моём <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png"/>-пространстве 👋
 
-- 🌱 В настоящее время я учусь в [Я.Практикуме](https://praktikum.yandex.ru) на курсе "Веб-разработчик", на финальном этапе — ✨ дипломе ✨.
-- :mortar_board: Мне интересно учиться, получать новые знания.
-- :construction_worker: Большое желание проявить себя в реальных проектах.
+- <img position="relative" top=10px src="https://img.icons8.com/color/30/000000/abc.png"/> В настоящее время я учусь в [Я.Практикуме](https://praktikum.yandex.ru) на курсе "Веб-разработчик".
+- <img width=24px src="https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/64/000000/external-thinking-digital-business-photo3ideastudio-lineal-color-photo3ideastudio.png"/> Мне интересно учиться, получать новые знания.
+- <img width=24px src="https://img.icons8.com/color/48/000000/motarboard.png"/> В данный момент готовлюсь к диплому.
+- <img width=32px src="https://img.icons8.com/external-konkapp-outline-color-konkapp/64/000000/external-working-man-stay-at-home-konkapp-outline-color-konkapp.png"/> Большое желание проявить себя в реальных проектах.
 - :mailbox: [Моя почта](mailto:ser.dedikoff@ya.ru)
+
+- <img width=24px src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/> [Мой Телеграм](https://t.me/@dev_SeregaDedok)
 
 
 <!--
