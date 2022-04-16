@@ -10,6 +10,9 @@
 - <img width=24px src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/> [Мой Телеграм](https://t.me/dev_SeregaDedok)
 - <img width=24px src="https://img.icons8.com/color/48/000000/place-marker--v1.png"/> Мой город — [Чайковский](https://ru.wikipedia.org/wiki/Чайковский_(город))
 
+### Я использую 
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img width=48px src="https://img.icons8.com/glyph-neue/64/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+
 
 <!--
 **SergeyDedikov/SergeyDedikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
