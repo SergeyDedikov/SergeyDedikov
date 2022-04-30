@@ -7,7 +7,7 @@
 
 ## Связаться со мной ✍️
 
-- <img width=32px src="https://img.icons8.com/emoji/48/000000/e-mail.png"/> **[Моя почта](mailto:ser.dedikoff@ya.ru)**
+- <img width=32px src="https://img.icons8.com/emoji/48/000000/e-mail.png"/> **<a href="mailto:ser.dedikoff@ya.ru" target="_blank">Моя почта</a>**
 - <img width=32px src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/> **[Мой Телеграм](https://t.me/dev_SeregaDedok)**
 - <img width=32px src="https://img.icons8.com/color/48/000000/place-marker--v1.png"/> Мой город — **[Чайковский](https://ru.wikipedia.org/wiki/Чайковский_(город))**
 
