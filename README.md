@@ -1,9 +1,10 @@
 # Приветствую 👋 на моём <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png"/>-пространстве!
 
 - <img src="https://img.icons8.com/color/30/000000/abc.png"/>  В апреле 2022 закончил обучение в **<a href="https://praktikum.yandex.ru" target="_blank">Я.Практикуме</a>** на курсе "Веб-разработчик".
+- 🌱 Знакомлюсь с Python.🐍
+- 🌱 Стажируюсь в **nocode**-технологиях в **Bubble**.⚡
 - <img width=24px src="https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/64/000000/external-thinking-digital-business-photo3ideastudio-lineal-color-photo3ideastudio.png"/>  Мне интересно учиться, получать новые знания.
-- 🌱 Практикуюсь в nocode-технологиях в Bubble.⚡
-- <img width=32px src="https://img.icons8.com/external-konkapp-outline-color-konkapp/64/000000/external-working-man-stay-at-home-konkapp-outline-color-konkapp.png"/>  Большое желание проявить себя в реальных проектах.
+- <img width=32px src="https://img.icons8.com/external-konkapp-outline-color-konkapp/64/000000/external-working-man-stay-at-home-konkapp-outline-color-konkapp.png"/>  Большое желание проявить себя в реальных проектах.🚀
 
 ## Связаться со мной ✍️
 
