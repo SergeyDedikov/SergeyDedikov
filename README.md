@@ -3,7 +3,7 @@
 - <img src="https://img.icons8.com/color/30/000000/abc.png"/>  В 2022 году закончил обучение в **<a href="https://praktikum.yandex.ru" target="_blank">Я.Практикуме</a>** на курсе "Веб-разработчик".
 - 🌱 Знакомлюсь с Python.🐍
 - 🌱 Прошёл стажировку в **<a href="https://brainfab.com/dashboard/1663145165153x712849733036639200" target="_blank">Brainfab</a>** по **nocode**-технологиям **Bubble**.⚡
-- <img width=24px src="https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/64/000000/external-thinking-digital-business-photo3ideastudio-lineal-color-photo3ideastudio.png"/>  Мне интересно учиться, получать новые знания.
+- <img width=24px src="https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/64/000000/external-thinking-digital-business-photo3ideastudio-lineal-color-photo3ideastudio.png"/>  Мне интересно узнавать новое.
 - <img width=32px src="https://img.icons8.com/external-konkapp-outline-color-konkapp/64/000000/external-working-man-stay-at-home-konkapp-outline-color-konkapp.png"/>  Большое желание проявить себя в реальных проектах.🚀
 
 ## Связаться со мной ✍️
